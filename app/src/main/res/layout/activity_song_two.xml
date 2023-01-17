@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/mainscr"
+    tools:context=".songTwoActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/joti_one"
+        android:text="Some"
+        android:textColor="@color/purple"
+        android:textSize="36sp" />
+
+    <TextView
+        android:layout_width="120dp"
+        android:layout_height="30dp"
+        android:fontFamily="@font/joti_one"
+        android:text="Bolbbalgan4"
+        android:textAlignment="center" />
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_marginVertical="6dp"
+        android:src="@drawable/some" />
+
+    <LinearLayout
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <ImageButton
+            android:id="@+id/dislike"
+            android:layout_width="42dp"
+            android:layout_height="47dp"
+            android:src="@drawable/ic_baseline_thumb_down_alt_24"
+            android:background="@color/lightcolor"/>
+        <ImageButton
+            android:id="@+id/like"
+            android:layout_width="42dp"
+            android:layout_height="47dp"
+            android:layout_marginStart="263dp"
+            android:src="@drawable/ic_baseline_thumb_up_alt_24"
+            android:background="@color/lightcolor"/>
+    </LinearLayout>
+
+    <SeekBar
+        android:id="@+id/bar"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:progress="40"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:text="3:06"/>
+    <LinearLayout
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <ImageButton
+            android:id="@+id/play_music"
+            android:layout_width="52dp"
+            android:layout_height="57dp"
+            android:src="@drawable/ic_baseline_play_arrow_24"
+            android:background="@drawable/playbg"/>
+
+    </LinearLayout>
+</LinearLayout>

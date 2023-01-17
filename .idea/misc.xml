@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/button.xml" value="0.187" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/color1.xml" value="0.112" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/color2.xml" value="0.112" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/color3.xml" value="0.112" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/color4.xml" value="0.112" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1515" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.1" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/ic_baseline_thumb_down_alt_24.xml" value="0.1515" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/ic_baseline_thumb_up_alt_24.xml" value="0.1515" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/playbg.xml" value="0.1" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/drawable/ribbon.xml" value="0.112" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/font/joti_one.xml" value="0.258974358974359" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_main.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_musicactivity.xml" value="0.21875" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_paintactivity.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_song_four.xml" value="0.2328125" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_song_one.xml" value="0.22864583333333333" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_song_three.xml" value="0.2328125" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_song_two.xml" value="0.2328125" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_splash_screen.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/activity_yourname.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/draw_canvas.xml" value="0.1" />
+        <entry key="..\:/Users/USA/AndroidStudioProjects/paint_app/app/src/main/res/layout/popup.xml" value="0.2328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
